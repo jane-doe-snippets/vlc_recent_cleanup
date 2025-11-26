@@ -1,16 +1,17 @@
 # What is it?
 
-This is script for removing filenames from Recently Played list in VLC Playeron MacOS.
+This is script for removing filenames from Recently Played list in VLC Player on MacOS.
 
 # How to use
 
-Call script with arguments.
+Call script with argument, they could be specidied multiple times:
 
 `--drop-ext` to remove references to played files with this extension 
 
 `--drop-dir` to remove references to played files inside specified directory
 
 **Sample:**
+
 removing files with extensions "mp3" * "flac" along with files inside "~/tmp" directory
  
 ```
