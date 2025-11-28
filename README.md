@@ -4,7 +4,7 @@ This is script for removing filenames from Recently Played list in VLC Player on
 
 # How to use
 
-Call script with argument, they could be specidied multiple times:
+Call script with arguments (they could be specified multiple times):
 
 `--drop-ext` to remove references to played files with this extension 
 
