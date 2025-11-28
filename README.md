@@ -12,7 +12,7 @@ Call script with arguments (they could be specified multiple times):
 
 **Sample:**
 
-removing files with extensions "mp3" * "flac" along with files inside "~/tmp" directory
+removing files with extensions "mp3" & "flac" along with files inside "~/tmp" directory
  
 ```
 python3 vlc_recent_cleanup.py --drop-ext mp3 --drop-ext flac --drop-dir ~/tmp/
